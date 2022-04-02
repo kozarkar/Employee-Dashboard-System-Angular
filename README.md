@@ -5,6 +5,9 @@ This project includes a Login system with Signup for new user. Validations exist
 
 Once logged in, the Admin can Create, Read, Update and Delete entires in the Employee Details Table.
 
+Frontend is created on Angular with Angular Material Design Components
+Backend is created using JSON Server with the Node Package Manager. JSON server creates a fake api to serve as the backend and make database calls. Database is also using JSON Server
+
 # To run the project on your local machine, first clone it to your system
 # Then run the following commands..
 
