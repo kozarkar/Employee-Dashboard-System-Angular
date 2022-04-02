@@ -14,7 +14,7 @@ Once logged in, the Admin can Create, Read, Update and Delete entires in the Emp
 	 
 	 ng serve -o  (serves the Angular project on default port 4200)
 
-	#json-server --watch dbcrud.json  (starts the json server(used to create fake backend API on default port 3000 and connects to database "db")
+	#json-server --watch dbcrud.json  (starts the json server(used to create fake backend API on default port 3000 and connects to database "dbcrud")
 
 # AngularCRUD
 
